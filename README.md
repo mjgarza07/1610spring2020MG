@@ -1,3 +1,4 @@
 I like drawing
 I have many pencils
 I am taking 3 art classes
+I draw horses well
