@@ -6,3 +6,4 @@ I also like to snowbaord
 I have my own gear
 I have an ethos arbor
 I also have burton bindings and boots
+I a have a pass to sundance
