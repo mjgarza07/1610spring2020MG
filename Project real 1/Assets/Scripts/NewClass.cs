@@ -1,5 +1,7 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
+using System.Runtime.ConstrainedExecution;
 using UnityEngine;
 
 public class NewClass : MonoBehaviour
@@ -16,6 +18,13 @@ public class NewClass : MonoBehaviour
     print(intNum);
     print(floatNum);
     print(gameObj);
+   
+    //m1m0 learning
+    var coins = 10;
+    var coinValue = 5;
+    var score = coins * coinValue;
+    Console.WriteLine (score);
+    
     }
 
 }
