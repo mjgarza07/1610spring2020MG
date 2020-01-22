@@ -121,7 +121,7 @@ public class NewClass : MonoBehaviour
         if (score < 100)
         {
             Console.WriteLine("Almost there!");
-        }    
+        }
         else if (score > 100)
         {
             Console.WriteLine("Over 100!");
@@ -144,3 +144,44 @@ public class NewClass : MonoBehaviour
         {
             Console.WriteLine("Good night");
         }
+
+//m1m0 learning
+        // loops
+        number = 1;
+        Console.WriteLine(number);
+        number = number + 1;
+        Console.WriteLine(number);
+        number = number + 1;
+        Console.WriteLine(number)
+        // no need for us to repeat^^
+        while (true);
+        { 
+            Console.WriteLine("Hi!");
+        }
+        var run = true;
+        while (run == true);
+        {
+            Console.WriteLine("Hi!");
+            run = false;
+        }
+        number = 1;
+        while (number <= 3);
+        {
+            Console.WriteLine("Hi!");
+            number = number + 1;
+        }
+        // counter variable
+        var i = 1;
+        while (i <= 3) ;
+        {
+            Console.WriteLine(i);
+            i = i = 1;
+        }
+        var i = 3;
+        while (i >= 1) ;
+        {
+            Console.WriteLine(i);
+            i = i - 1;
+        }
+        
+    }    

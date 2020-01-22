@@ -12,6 +12,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/m1m0.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/NewClass.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -21,6 +24,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Desert.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PlantCorse.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/NewClass.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/m1m0.cs" />
       </list>
     </option>
   </component>
@@ -76,6 +80,7 @@
       <workItem from="1579111616023" duration="923000" />
       <workItem from="1579229459207" duration="112000" />
       <workItem from="1579229606450" duration="3034000" />
+      <workItem from="1579660303795" duration="2375000" />
     </task>
     <servers />
   </component>
