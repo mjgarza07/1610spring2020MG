@@ -12,10 +12,8 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/m1m0.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/NewClass.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/January.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -23,8 +21,11 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/NewClass.cs.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Desert.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PlantCorse.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/NewClass.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/m1m0.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/january22.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/NewClass.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/january.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/January.cs" />
       </list>
     </option>
   </component>
@@ -81,6 +82,7 @@
       <workItem from="1579229459207" duration="112000" />
       <workItem from="1579229606450" duration="3034000" />
       <workItem from="1579660303795" duration="2375000" />
+      <workItem from="1579713238738" duration="3836000" />
     </task>
     <servers />
   </component>
@@ -106,6 +108,8 @@
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="552" y="177" key="#Notifications" />
+    <state x="552" y="177" key="#Notifications/1920.1080" />
     <state x="623" y="239" key="search.everywhere.popup" />
     <state x="623" y="239" key="search.everywhere.popup/1920.1080" />
   </component>
