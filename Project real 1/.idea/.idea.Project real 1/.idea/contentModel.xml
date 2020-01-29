@@ -8,6 +8,7 @@
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">
           <e p="january.cs" t="Include" />
+          <e p="MimoStrings.cs" t="Include" />
           <e p="MouseEvents.cs" t="Include" />
           <e p="NewClass.cs" t="Include" />
           <e p="Trigger.cs" t="Include" />
