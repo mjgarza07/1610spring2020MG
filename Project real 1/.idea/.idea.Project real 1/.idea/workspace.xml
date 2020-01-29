@@ -15,6 +15,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/TriggerEvents.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/NewClass.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/January.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TriggerEvents.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -85,7 +86,11 @@
       <workItem from="1579229606450" duration="3034000" />
       <workItem from="1579660303795" duration="2375000" />
       <workItem from="1579713238738" duration="3836000" />
+<<<<<<< Updated upstream
       <workItem from="1580144133087" duration="3395000" />
+=======
+      <workItem from="1580316884213" duration="939000" />
+>>>>>>> Stashed changes
     </task>
     <servers />
   </component>
