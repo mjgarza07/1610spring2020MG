@@ -36,6 +36,26 @@ public class MimoStrings : MonoBehaviour
         string s3 = s1.Remove(20);
         Console.WriteLine(s2);
         Console.WriteLine(s3);
+        string s1 = "Aquaman is not better than Superman!";
+        string s2 = s1.Remove(11, 16);
+        string s3 = s1.Remove(11, 4);
+        Console.WriteLine(s2);
+        Console.WriteLine(s3);
+        var s1 = "I'm such a bool bat!";
+        var s2 = s1.Replace("b", "c");
+        Console.WriteLine(s2);
+        string s1 = "Silicon Valley";
+        string s2 = s1.Remove(7);
+        bool b = s1.Contains(s2);
+        Console.WriteLine(b);
+        string name = "John Wayne";
+        name.Remove(5, 5);
+        string s1 = "I,ve got the power!";
+        string s2 = s1.Replace('p', 't');
+        s2 = s2.Replace('r', 'l');
+        Console.WriteLine(s2);
+        
+
 
     }
     
