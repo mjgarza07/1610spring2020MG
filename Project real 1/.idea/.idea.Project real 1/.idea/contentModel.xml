@@ -7,10 +7,8 @@
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">
+          <e p="CharacterMovemnt.cs" t="Include" />
           <e p="january.cs" t="Include" />
-          <e p="MimoDictionaries.cs" t="Include" />
-          <e p="MimoLists.cs" t="Include" />
-          <e p="MimoStrings.cs" t="Include" />
           <e p="MouseEvents.cs" t="Include" />
           <e p="NewClass.cs" t="Include" />
           <e p="Trigger.cs" t="Include" />
