@@ -8,9 +8,11 @@
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">
           <e p="CharacterMovemnt.cs" t="Include" />
+          <e p="IfStatements.cs" t="Include" />
           <e p="january.cs" t="Include" />
           <e p="MouseEvents.cs" t="Include" />
           <e p="NewClass.cs" t="Include" />
+          <e p="RidgidBodyForces.cs" t="Include" />
           <e p="Trigger.cs" t="Include" />
           <e p="TriggerEvents.cs" t="Include" />
         </e>
