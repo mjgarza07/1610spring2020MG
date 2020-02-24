@@ -15,11 +15,11 @@
           <e p="IntData.cs" t="Include" />
           <e p="january.cs" t="Include" />
           <e p="LightControl.cs" t="Include" />
-          <e p="MimoMainAndSystem.cs" t="Include" />
           <e p="MouseEvents.cs" t="Include" />
           <e p="NewClass.cs" t="Include" />
           <e p="RidgidBodyForces.cs" t="Include" />
           <e p="SpriteController.cs" t="Include" />
+          <e p="TextBehaviour.cs" t="Include" />
           <e p="Trigger.cs" t="Include" />
           <e p="TriggerEvents.cs" t="Include" />
         </e>

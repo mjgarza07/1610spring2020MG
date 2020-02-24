@@ -21,10 +21,5 @@ public class SpriteController : MonoBehaviour
     {
         spriteObj.color = offColor;
     }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+    
 }

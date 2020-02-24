@@ -1,21 +1,21 @@
 ﻿
 using UnityEngine;
 using UnityEngine.UI;
+
 [RequireComponent(typeof(Image))]
 public class ImageBehaviour : MonoBehaviour
 
 {
 private Image imageObj;
-public float ImageType; 
+public FloatData dataObj; 
+
 private void Start()
     {
         imageObj = GetComponent<Image>();
-        ImageType;
     }
 
-    // Update is called once per frame
-    void Update()
+void Update()
     {
-        
+        imageObj.fillAmount = dataObj.value;
     }
 }
