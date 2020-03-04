@@ -7,6 +7,7 @@ public class TextBehaviour : MonoBehaviour
 {
     private Text textObj;
     public IntData dataObj;
+    
    private void Start()
    {
        textObj = GetComponent<Text>();

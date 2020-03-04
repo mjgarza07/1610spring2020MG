@@ -9,7 +9,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c0f1b2211e87b5542943c2c21756637e, type: 3}
-  m_Name: KillCount
+  m_Script: {fileID: 11500000, guid: e5f77f440c0afca408fd145a816eba25, type: 3}
+  m_Name: Checkpoint1
   m_EditorClassIdentifier: 
-  value: 10
+  value: {x: 0, y: 0, z: 0}
