@@ -25,6 +25,7 @@
           <e p="LightControl.cs" t="Include" />
           <e p="MouseEvents.cs" t="Include" />
           <e p="NewClass.cs" t="Include" />
+          <e p="PlayerDie.cs" t="Include" />
           <e p="RidgidBodyForces.cs" t="Include" />
           <e p="SpriteController.cs" t="Include" />
           <e p="Trigger.cs" t="Include" />
