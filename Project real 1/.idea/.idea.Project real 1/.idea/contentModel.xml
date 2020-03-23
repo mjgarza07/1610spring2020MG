@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\10853356\.Rider2019.2\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\10853356\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_Project real 1.468320136.00" t="ExcludeRecursive" />
-    <e p="C:\Users\10853356\Downloads\gitkraken\1610spring2020MG\Project real 1" t="IncludeRecursive">
+    <e p="C:\Users\mjgar\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\mjgar\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Project real 1.-1995145834.00" t="ExcludeRecursive" />
+    <e p="C:\Users\mjgar\Downloads\gitkraken\1610spring2020MG\Project real 1" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">
@@ -22,6 +22,7 @@
             <e p="StringData.cs" t="Include" />
             <e p="VectorThreeData.cs" t="Include" />
           </e>
+          <e p="ENum.cs" t="Include" />
           <e p="IfStatements.cs" t="Include" />
           <e p="january.cs" t="Include" />
           <e p="LightControl.cs" t="Include" />
