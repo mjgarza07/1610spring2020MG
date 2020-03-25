@@ -7,6 +7,9 @@
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">
+          <e p="AI" t="Include">
+            <e p="NavAgentBehaviour.cs" t="Include" />
+          </e>
           <e p="Behaviours" t="Include">
             <e p="ImageBehaviour.cs" t="Include" />
             <e p="MonoBehaviours.cs" t="Include" />
@@ -17,12 +20,14 @@
           <e p="Collectable.cs" t="Include" />
           <e p="CollectableList.cs" t="Include" />
           <e p="DataScripts" t="Include">
+            <e p="Debugger.cs" t="Include" />
             <e p="FloatData.cs" t="Include" />
             <e p="IntData.cs" t="Include" />
             <e p="StringData.cs" t="Include" />
             <e p="VectorThreeData.cs" t="Include" />
           </e>
-          <e p="ENum.cs" t="Include" />
+          <e p="ENumSwitches.cs" t="Include" />
+          <e p="EnumWeapons.cs" t="Include" />
           <e p="IfStatements.cs" t="Include" />
           <e p="january.cs" t="Include" />
           <e p="LightControl.cs" t="Include" />

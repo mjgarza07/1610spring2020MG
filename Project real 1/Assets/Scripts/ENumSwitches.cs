@@ -1,6 +1,7 @@
-﻿Using System;
+﻿using UnityEngine.Events;
+
 using UnityEngine;
-Using UnityEngine.Events;
+
 
 public class ENumSwitches : MonoBehaviour
 {
@@ -85,7 +86,7 @@ public class ENumSwitches : MonoBehaviour
             case GameStates.Pausing:
                 pausingEvent.Invoke();
                 break;
-            case GameStates.Enging:
+            case GameStates.Ending:
                 endingEvent.Invoke();
                 break;
         }
